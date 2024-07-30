@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qiufengchn
+- 👋 Hi, I’m FENG_QIU (@qiufengchn)
 - 👀 Focus on Urban Morophology and AI for Urban Computing.
 - 🌱 I’m currently a student in HUST
 - 💞️ I’m looking to collaborate on ...

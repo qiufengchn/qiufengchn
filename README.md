@@ -2,7 +2,7 @@
 
 ### Shaping the Future of Urban Living with Data & Algorithms ✅🚩🔎👋🧠💡
 
-- 👋 Hi, I'm Feng Qiu (@qiufengchn) – an explorer at the intersection of urban morphology, energy resilience, and AI-driven urban computing.
+- 👋 Hi, I'm Qiu Feng  (@qiufengchn) – an explorer at the intersection of urban morphology, energy resilience, and AI-driven urban computing.
 - 👀 I'm passionate about leveraging data and algorithms to create more sustainable, resilient, and intelligent cities.
 - 🌱 Currently, I'm a student researcher at Huazhong University of Science and Technology, delving into the complexities of urban environments.
 - ❤️ I'm eager to collaborate on projects involving urban computing, semantic recognition of street view imagery, and innovative solutions for urban challenges.

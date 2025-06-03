@@ -1,41 +1,48 @@
-## 🌟 **QIU Feng's Personal Page** 🌟
+## 🌟 **QIU Feng: Engineering Innovation for Smarter Cities** 🌟
 
-### Smart Cities & Engineering Innovation ✅🚩🔎👋🧠❓
+### Shaping the Future of Urban Living with Data & Algorithms ✅🚩🔎👋🧠💡
 
--  👋 Hi, I’m FENG_QIU (@qiufengchn)
--  👀 Focus on Urban Morphology, Energy Resilience and AI for Urban Computing.
--  🌱 Currently a student researcher of Huazhong University Of Science and Technology.
--  ❤️ Looking to collaborate on things like urban computing and semantic recognition of street view images.
--  📫 How to reach me:
-  -  qiufengchn@gmail.com (for Work) ;
-  -  qiufengchn@hust.edu.cn (for Academic Discussion);
-  -  f.qiu@hotmail.com (for Life and Entertainment).
----
-
-## 🎓 **Academic Journey**  
-- 🎓 Master of Civil Engineering at HUST, specializing in Smart Construction and Management.  
-- 📊 Top 15% GPA ranking in both undergraduate and graduate studies, recipient of National Scholarship and IELTS A 7.0.  
-- 🌍 Awarded first prize in the National College Mathematical Modeling Competition and over ten national-level honors.  
-
-## 💻 **Technical Breakthroughs**  
-- 💻 Led key algorithms in National Key R&D Program, developing C++ mesh algorithms to improve complex model processing efficiency by 35%.  
-- 🌧️ Constructed a 1M+ node geospatial knowledge graph, achieving AUC=0.93 in energy resilience of storm impacts prediction.  
-- 📊 Spearheaded urban information fusion system during internship, processing 500GB multi-source data with model false alarm rate <3%.  
-
-## ⚡ **Engineering Practice**  
-- 🚧 Innovated safety management for ultra-high voltage power projects, risk quantification model adopted by state-owned enterprise.  
-- 📐 Optimized construction data analysis at North China Power Design Institute, boosting material analysis efficiency by 30% with Python scripts.  
-- 🏙️ Developed GIS platform at Wuhan Zhongdi Digital, results integrated into corporate technical standards.  
-
-## 🤝 **Leadership & Collaboration**  
-- 🎯 Served as Party Branch Secretary, organized 13 events and led team to exemplary project.  
-- 🎓 AI algorithm course teaching assistant, designed 32-hour curriculum with 16 visualization modules.  
-
-## 🚀 **Future Vision**  
-Committed to advancing smart transformation in civil engineering, empowering sustainable urban development with algorithms | Making engineering technology more impactful! 🌍✨  
+- 👋 Hi, I'm Feng Qiu (@qiufengchn) – an explorer at the intersection of urban morphology, energy resilience, and AI-driven urban computing.
+- 👀 I'm passionate about leveraging data and algorithms to create more sustainable, resilient, and intelligent cities.
+- 🌱 Currently, I'm a student researcher at Huazhong University of Science and Technology, delving into the complexities of urban environments.
+- ❤️ I'm eager to collaborate on projects involving urban computing, semantic recognition of street view imagery, and innovative solutions for urban challenges.
+- 📫 Let's connect! Reach me at:
+  - qiufengchn@gmail.com (Professional Inquiries)
+  - qiufengchn@hust.edu.cn (Academic Discussions & Research)
+  - f.qiu@hotmail.com (General Inquiries & Networking)
 
 ---
-🔎 More information at https://qiufengchn.github.io/.
+
+## 🎓 **Academic Achievements & Foundations**
+
+- 🎓 I hold a Master's degree in Civil Engineering from HUST, specializing in Smart Construction and Management.
+- 📊 During my studies, I consistently ranked in the top 15% and was honored with the National Scholarship. I also hold an IELTS score of 7.0.
+- 🌍 My academic journey has been marked by success in competitions, including a first prize in the National College Mathematical Modeling Competition and over ten national-level honors.
+
+## 💻 **Technical Skills & Breakthroughs**
+
+- 💻 As a key member of the National Key R&D Program, I led the development of C++ mesh algorithms, significantly boosting complex model processing efficiency by 35%.
+- 🌧️ I constructed a comprehensive geospatial knowledge graph (1M+ nodes) to predict energy resilience against storm impacts, achieving an impressive AUC of 0.93.
+- 📊 During an internship, I spearheaded the development of an urban information fusion system, processing 500GB of multi-source data and achieving a model false alarm rate of less than 3%.
+
+## ⚡ **Engineering Experience & Impact**
+
+- 🚧 I innovated safety management protocols for ultra-high voltage power projects, with my risk quantification model adopted by a leading state-owned enterprise.
+- 📐 At the North China Power Design Institute, I optimized construction data analysis using Python scripts, enhancing material analysis efficiency by 30%.
+- 🏙️ At Wuhan Zhongdi Digital, I developed a GIS platform, with the results integrated into the company's technical standards.
+
+## 🤝 **Leadership & Collaborative Spirit**
+
+- 🎯 As Party Branch Secretary, I organized 13 impactful events and guided the team to achieve an exemplary project status.
+- 🎓 I served as a teaching assistant for an AI algorithm course, creating a comprehensive 32-hour curriculum enriched with 16 visualization modules.
+
+## 🚀 **Vision for the Future**
+
+I'm committed to driving smart transformation in civil engineering and empowering sustainable urban development through innovative algorithms. My goal is to make engineering technology more impactful and contribute to building smarter, more resilient cities for the future! 🌍✨
+
+---
+
+🔎 Explore more about my work and projects at [https://qiufengchn.github.io/](https://qiufengchn.github.io/).
 
 <!---
 qiufengchn/qiufengchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
